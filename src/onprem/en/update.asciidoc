@@ -52,7 +52,7 @@ Following the update, the (likely) no longer required version `2.0.0p1.cre` can 
 [#before_update]
 == Before the update
 
-If you are planning to update {CMK} from version {oldstable} to version {current-major}, you should first read the xref:update_major#[Update to version 2.3.0] article, in which we have compiled the most important issues you should consider before and after such an update.
+If you are planning to update {CMK} from version {oldstable} to version {current-major}, you should first read the xref:update_major#[Update to version 2.4.0] article, in which we have compiled the most important issues you should consider before and after such an update.
 
 However even if you have already installed a {current-major} version and want to update to the latest stable patch version {current}, the topics described in the following sections may still be relevant.
 
